@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750158893151",
+    "project_id": "belajar-push-notifications",
+    "storage_bucket": "belajar-push-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750158893151:android:5b0f23d50d53645079cbea",
+        "android_client_info": {
+          "package_name": "com.belajar.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750158893151-bfq8120jopgejhgr5edhfccua9onq2rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq8CVyFBhG_sr5dFUfHrN5gT1U0igMmR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750158893151-bfq8120jopgejhgr5edhfccua9onq2rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
